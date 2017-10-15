@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Creepster');
+@import url('https://fonts.googleapis.com/css?family=Josefin+Slab');
+@import url('https://fonts.googleapis.com/css?family=Noticia+Text');
+
+
+p{
+	font-family: 'Josefin Slab', serif;
+}
+
+
+h3{font-family: 'Creepster', cursive;}
+body{background:url(../images/the-korus-51284.jpg)}
+.table{
+	font-family: 'Noticia Text', serif;
+}
+
+.container{background:#D9D9D9}
